@@ -1,8 +1,6 @@
 # Starbucks dataset analysis-how can we make more profits
 
 ![This is an image1](offer_difficulty_duration.JPEG)
-![This is an image2](cpl_view_nview.JPEG)
-
 ## Introduction
 
 In order to study how people make purchases and how these purchases are influenced by promotional offers. Starbucks performed a test within a duration of one month and recorded customers' behaviors including receiving offers, opening offers and making purchases within the period. I would like to use the [CRISP-DM](https://www.datascience-pm.com/crisp-dm-2/) process to analyse the dataset to shed light on how different customers respond to these offers. In addition, I also create a predictive model to help design a selective promotion strategy which has been proven to reduce the promotion cost.
