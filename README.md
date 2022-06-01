@@ -2,7 +2,6 @@
 
 ![This is an image1](offer_difficulty_duration.JPEG)
 ![This is an image2](cpl_view_nview.JPEG)
-![This is an image3](feat_im.JPEG)
 
 ## Introduction
 
